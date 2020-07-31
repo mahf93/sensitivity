@@ -27,3 +27,17 @@ python3 experiments.py --model 'fc' --init SN --scale 300 --depth 4 --dataset ci
 ```
 The results will be saved in <filename.pkl> file.  
 To plot the figures of each experiment run results.ipynb file while reading the <filename.pkl> files of your choice.  
+
+## Citation
+To cite our work please use:
+```
+@misc{forouzesh2020generalization,
+    title={Generalization Comparison of Deep Neural Networks via Output Sensitivity},
+    author={Mahsa Forouzesh and Farnood Salehi and Patrick Thiran},
+    year={2020},
+    eprint={2007.15378},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
+```
+
