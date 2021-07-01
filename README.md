@@ -31,6 +31,17 @@ To plot the figures of each experiment run results.ipynb file while reading the 
 ## Citation
 To cite our work please use:
 ```
+@inproceedings{forouzesh2021generalization,
+  title={Generalization Comparison of Deep Neural Networks via Output Sensitivity},
+  author={Forouzesh, Mahsa and Salehi, Farnood and Thiran, Patrick},
+  booktitle={2020 25th International Conference on Pattern Recognition (ICPR)},
+  pages={7411--7418},
+  year={2021},
+  organization={IEEE}
+}
+```
+or for the full arxiv version:
+```
 @misc{forouzesh2020generalization,
     title={Generalization Comparison of Deep Neural Networks via Output Sensitivity},
     author={Mahsa Forouzesh and Farnood Salehi and Patrick Thiran},
@@ -40,4 +51,5 @@ To cite our work please use:
     primaryClass={cs.LG}
 }
 ```
+
 
