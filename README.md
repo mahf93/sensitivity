@@ -28,6 +28,10 @@ python3 experiments.py --model 'fc' --init SN --scale 300 --depth 4 --dataset ci
 The results will be saved in <filename.pkl> file.  
 To plot the figures of each experiment run results.ipynb file while reading the <filename.pkl> files of your choice.  
 
+## Access to the paper
+You can find the full version of the paper (including appendices) at https://arxiv.org/abs/2007.15378 and the published version at https://ieeexplore.ieee.org/document/9412496.
+
+
 ## Citation
 To cite our work please use:
 ```
